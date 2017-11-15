@@ -4,7 +4,7 @@ Curso de ciência de dados - módulo I
 
 Olá Seja bem vindo ao curso de introdução a Data Science e Inteligência Artificial.
 
-Meu nome é Claudio Pinheiro sou cientista de dados na IBM, Professor de Pós gradução nas faculdades ESPM e Fiap além de mentor para startups nas aceleradoras Aheadfarm e Wayra.
+Meu nome é Claudio Pinheiro sou cientista de dados na IBM, Professor de Pós gradução nas faculdades ESPM e FIAP além de mentor para startups nas aceleradoras Aheadfarm e Wayra.
 
 Irei apresentar neste treinamentos conceitos, cases e aplicações práticas, utilizando as plataformas de ciência de dados da IBM chamadas SPSS Modeler e Data Science Experience. Também utilizaremos ambientes de BI como o Cognos e criaremos painéis com bibliotecas diversas.
 
