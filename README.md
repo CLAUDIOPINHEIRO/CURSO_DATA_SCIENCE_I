@@ -8,7 +8,7 @@ Meu nome é Claudio Pinheiro sou cientista de dados na IBM, Professor de Pós gr
 
 Irei apresentar neste treinamentos conceitos, cases e aplicações práticas, utilizando as plataformas de ciência de dados da IBM chamadas SPSS Modeler e Data Science Experience. Também utilizaremos ambientes de BI como o Cognos e criaremos painéis com bibliotecas diversas.
 
-Após seu cadastro na plataforma IBM Cloud e instanciamento do serviço do Data science experience você poderá solicitar participação no treinamento como colaborador e assim ter acesso aos conteúdos apresentados ao longo do treinamento. Para isto basta enviar mensagem de acesso ao conteúdo no link linkedin.com/in/claudio-pinheiro-cloud.
+Após seu cadastro na plataforma IBM Cloud e instanciamento do serviço do Data science experience você poderá solicitar participação no treinamento como colaborador e assim ter acesso aos conteúdos apresentados ao longo do treinamento. Para isto basta enviar mensagem de acesso ao conteúdo no link https://www.linkedin.com/in/claudio-pinheiro-cloud.
 
 O curso apresenta vídeos com uma breve conceituação teórica e log a seguir uma aplicação prática facil de refazer.
 
